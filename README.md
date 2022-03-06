@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarcosSanchezAV
-- 👀 I’m interested in Artificial Intelligence, Videogames and web development
+- 👀 I’m interested in Artificial Intelligence, Videogames and Web Development
 - 🌱 I’m currently learning Full-Stack development with Java
 - 📫 How to reach me: Instagram @mar.sanl
 
